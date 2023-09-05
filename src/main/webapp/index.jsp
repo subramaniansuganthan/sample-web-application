@@ -50,8 +50,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Hello</h1>
-        <p>This is from Dev Environment </p>
+        <h1>Hello DevOps team</h1>
+        <p>the war file copied into tomcat webapps folder  </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
