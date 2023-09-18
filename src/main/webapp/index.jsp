@@ -51,8 +51,8 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Hello DevOps case study</h1>
-        <p>the war file copied into tomcat webapps folder  </p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p>Deployment into tomcat folder  </p>
+       
     </div>
 </div>
 
